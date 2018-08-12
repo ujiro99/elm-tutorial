@@ -1,2 +1,2 @@
 # elm-tutorial
-Try https://www.elm-tutorial.org
+Studying elm in the https://www.elm-tutorial.org.
